@@ -5,3 +5,5 @@ The package depends on, \
 `urg_c`\
 `urg_node`\
 `laser_proc`
+
+`git clone https://github.com/ros-drivers/urg_node.git`
