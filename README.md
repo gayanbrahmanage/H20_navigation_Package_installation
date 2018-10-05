@@ -5,5 +5,3 @@ The package depends on \
 `urg_c`\
 `urg_node`\
 `laser_proc`
-
-
