@@ -4,6 +4,6 @@ The package depends on \
 `gmapping`
 `urg_c`\
 `urg_node`\
-`laser_proc`\
+`laser_proc`
 
 
