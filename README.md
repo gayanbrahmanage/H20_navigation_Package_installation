@@ -10,6 +10,12 @@ The package depends on,
 
 `laser_proc`
 
+`Robotmovement`
+
+`TrajectorPlanner3`
+
+`DrRobotMotionSensorDriver`
+
 `git clone https://github.com/ros-perception/slam_gmapping.git`
 
 `git clone https://github.com/ros-drivers/urg_c.git`
