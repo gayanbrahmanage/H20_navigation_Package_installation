@@ -16,6 +16,8 @@ The package depends on,
 
 `DrRobotMotionSensorDriver`
 
+Follow the given intructions to make all them installed on your catkin_ws
+
 `git clone https://github.com/ros-perception/slam_gmapping.git`
 
 `git clone https://github.com/ros-drivers/urg_c.git`
