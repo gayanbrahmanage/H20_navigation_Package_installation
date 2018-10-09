@@ -24,3 +24,9 @@ The package depends on,
 
 `git clone https://github.com/ros-perception/laser_proc.git`
 
+`git clone https://github.com/gayanbrahmanage/Robotmovement.git`
+
+`git clone https://github.com/gayanbrahmanage/TrajectorPlanner3.git`
+
+`git clone https://github.com/gayanbrahmanage/DrRobotMotionSensorDriver.git`
+
